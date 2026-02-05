@@ -1,0 +1,11 @@
+venv/
+lora_output/
+fine_tune.ipynb
+gemma_lora_output.zip
+gemma_fine_tune.ipynb
+GPT.ipynb
+Harry_Potter.txt
+hp_gemma_lora_dataset.jsonl
+hp_lora_dataset.jsonl
+lora_output.zip
+resume_extract.py
