@@ -24,8 +24,18 @@ Large model/adaptor artifacts, datasets, notebooks or outputs listed in `.gitign
 1. Create a virtual environment and install dependencies:
 
 ```bash
-python -m venv venv
+python -m venv venv #use python3 in linuix /mac.
+```
+2. Activate venv
+For Linuix
+```bash
 source venv/bin/activate
+```
+for windows
+```bash
+venv/scripts/activate
+```
+```bash
 pip install -r requirements.txt
 ```
 
